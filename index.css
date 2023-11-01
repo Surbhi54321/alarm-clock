@@ -1,0 +1,98 @@
+
+
+
+
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+     
+  padding: 0;
+  margin: 0;
+}
+
+#clock {
+    border-radius: 20px;
+    padding: 0px 20px;
+    background-color: lavender;
+    height:120px;
+    font-size: 40px;
+    font-family: arial;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  color: black;
+}
+#main-container{
+    background-color: lightgoldenrodyellow;
+margin-left: 40px;    
+border: 2px solid black;
+margin-top: 150px;
+width: 60vw;
+height: 60vh;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+
+h2 {
+	text-align:center;
+  
+
+}
+
+#alarm-container {
+   justify-content: center;
+	text-align:center;
+    font-family: Verdana;
+    font-size: 1em;
+    padding: 0.7em;
+  color: black;
+}
+
+label {
+	display:inline-block;
+}
+
+.timeofday {
+    background-color: #eee;
+}
+
+.bigger {
+    font-weight:bold;
+    font-size: 18px;
+}
+
+#sounds {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#setButton {
+    border-radius: 8px;
+    width: 100px;
+    float:left;
+    background-color: #ddd;
+    margin-top:10px;
+}
+#setButton:hover{
+    background-color: #3e8e41;
+  color: white;
+  cursor: pointer;
+}
+
+#clearButton {
+    border-radius: 8px;
+    width: 100px;
+    float:right;
+    background-color:maroon;
+    margin-top:10px;
+}
+#clearButton:hover{
+    background-color:red;
+  color: white;
+  cursor: pointer;
+}
+
+
