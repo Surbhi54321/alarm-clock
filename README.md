@@ -1,4 +1,4 @@
-## Alarm_Clock_CodingNinjas_FrontEnd_Project
+## ALARM_CLOCK_CodingNinjas_FrontEnd_Project
 This is a simple web-based clock and alarm application that allows users to view the current time, set alarms, manage their alarms, and receive alerts when alarms go off. This application is built using HTML, CSS, and JavaScript.
 
 ## Features
